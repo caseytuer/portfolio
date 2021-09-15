@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48e5e419.chunk.css",
+    "main.js": "/static/js/main.f509b6f1.chunk.js",
+    "main.js.map": "/static/js/main.f509b6f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.08406bd4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.08406bd4.js.map",
+    "static/js/2.50732037.chunk.js": "/static/js/2.50732037.chunk.js",
+    "static/js/2.50732037.chunk.js.map": "/static/js/2.50732037.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.48e5e419.chunk.css.map": "/static/css/main.48e5e419.chunk.css.map",
+    "static/js/2.50732037.chunk.js.LICENSE.txt": "/static/js/2.50732037.chunk.js.LICENSE.txt",
+    "static/media/casey-screen.01029267.png": "/static/media/casey-screen.01029267.png",
+    "static/media/casey.d8e38b1a.png": "/static/media/casey.d8e38b1a.png",
+    "static/media/extremerentals-img.7ff52bd4.png": "/static/media/extremerentals-img.7ff52bd4.png",
+    "static/media/ezpickup-img.8cb54d4c.png": "/static/media/ezpickup-img.8cb54d4c.png",
+    "static/media/hotpotato-img.73491773.png": "/static/media/hotpotato-img.73491773.png",
+    "static/media/js-img.1776ef3b.gif": "/static/media/js-img.1776ef3b.gif",
+    "static/media/kona.5c344ce2.png": "/static/media/kona.5c344ce2.png",
+    "static/media/python.630e0d30.gif": "/static/media/python.630e0d30.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08406bd4.js",
+    "static/js/2.50732037.chunk.js",
+    "static/css/main.48e5e419.chunk.css",
+    "static/js/main.f509b6f1.chunk.js"
+  ]
+}
