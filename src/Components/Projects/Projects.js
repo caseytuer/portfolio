@@ -15,7 +15,11 @@ const Projects = () => {
         <div className="projects-container">
             <div className="project-container">
                 <div className="project-title">EZpickup</div>
+                <a 
+                    href='https://ezpickup.herokuapp.com/'>
                 <img className="project-img" src={ezpickupImg} alt=""/>
+                    
+                </a>
                 <div className="project-description">{ezpickupDescription}</div>
                 <a className="check-it-out"
                     href='https://github.com/caseytuer/ezpickup'>
@@ -25,7 +29,11 @@ const Projects = () => {
             </div>
             <div className="project-container">
                 <div className="project-title">Hotpotato</div>
+                <a 
+                    href='https://hotpotato-app.herokuapp.com/'>
                 <img className="project-img" src={hotpotatoImg} alt="" />
+                    
+                </a>
                 <div className="project-description">{hotpotatoDescription}</div>
                 <a className="check-it-out"
                     href='https://github.com/nicopierson/hotpotato'>
@@ -35,7 +43,11 @@ const Projects = () => {
             </div>
             <div className="project-container">
                 <div className="project-title">Extreme Rentals</div>
+                <a className="check-it-out"
+                    href='https://extreme-rentals.herokuapp.com/'>
                 <img className="project-img" src={extremerentalsImg} alt="" />
+                    
+                </a>
                 <div className="project-description">{extremerentalsDescription}</div>
                 <a className="check-it-out"
                     href='https://github.com/caseytuer/extreme-rentals'>
