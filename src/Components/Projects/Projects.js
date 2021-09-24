@@ -44,7 +44,7 @@ const Projects = () => {
             <div className="project-container">
                 <div className="project-title">Extreme Rentals</div>
                 <a className="check-it-out"
-                    href='https://extreme-rentals.herokuapp.com/'>
+                    href='https://extreme-rentals.herokuapp.com/home'>
                 <img className="project-img" src={extremerentalsImg} alt="" />
                     
                 </a>
